@@ -1,3 +1,6 @@
+![mobile_price](https://github.com/user-attachments/assets/8980d504-a9fe-49a2-ba0e-e8cb0731856e)
+
+
 **Supervised Learning Mobile Price Range Prediction Project**
 
 Welcome to the supervised learning mobile price range prediction project repository. This project focuses on predicting the price range of mobile phones using machine learning algorithms. By analyzing various features and attributes of mobile devices, this project assists consumers and retailers in making informed decisions about mobile phone purchases and pricing strategies.
